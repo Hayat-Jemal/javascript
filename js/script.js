@@ -7,4 +7,9 @@ el.addEventListener("click", function () {
 
 console.log("hello")
 
+document.write("I have comments in my JavaScript code!") 
+// document.write("You can't see this!");
+
+console.log("this is Hayat");
+console.log("my favorite food is Tibs");
 
