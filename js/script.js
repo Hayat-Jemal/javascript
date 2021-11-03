@@ -5,5 +5,6 @@ el.addEventListener("click", function () {
     el.innerHTML = "changed";
 })
 
+console.log("hello")
 
 
