@@ -5,7 +5,7 @@ el.addEventListener("click", function () {
     el.innerHTML = "changed";
 })
 
-console.log("hello")
+console.log("hi")
 
 document.write("I have comments in my JavaScript code!") 
 // document.write("You can't see this!");
