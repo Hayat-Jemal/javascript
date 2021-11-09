@@ -13,3 +13,12 @@ document.write("I have comments in my JavaScript code!")
 console.log("this is Hayat");
 console.log("my favorite food is Tibs");
 console.log("testby")
+
+// arithmetic operators
+let answer = 0;
+
+answer += 5;
+answer += 5;
+answer -= 2;
+answer *= 2;
+answer /= 4;
